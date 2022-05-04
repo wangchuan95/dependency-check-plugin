@@ -1,6 +1,6 @@
 {
   "name": "dependency-check-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dependency Check Plugin",
   "main": "index.js",
   "repository": {
@@ -8,10 +8,10 @@
     "url": "https://github.com/wangchuan95/dependency-check-plugin"
   },
   "keywords": [
-    "webpack",
-    "plugin",
     "dependency",
-    "check"
+    "check",
+    "webpack",
+    "plugin"
   ],
   "author": "",
   "license": "MIT",
@@ -22,17 +22,7 @@
     "lib",
     "index.js"
   ],
-  "scripts": {
-    "test": "rm -rf test/dist && webpack --config test/webpack.config.js"
-  },
-  "dependencies": {
-    "axios": "^0.27.2",
-    "dayjs": "^1.11.1",
-    "moment": "^2.29.3"
-  },
-  "devDependencies": {
-    "lodash-es": "^4.17.21",
-    "webpack": "4",
-    "webpack-cli": "3"
-  }
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
 }
