@@ -84,6 +84,8 @@ Unused dependencies:
 
   - statsOptions (Object|undefined)
 
+  - statsFile (String|undefined)
+
   - checkOptions (Object|undefined)
 
     - moduleFilter (Function|undefined)
