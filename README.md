@@ -67,9 +67,9 @@ output:
 
 ```bash
 Bundled dependencies:
-* dayjs      ./test/src/main.js
-* axios      ./test/src/api.js
-* lodash-es  ./test/src/main.js
+* dayjs      ./src/main.js
+* axios      ./src/api.js
+* lodash-es  ./src/main.js
 Missing dependencies:
 * lodash-es
 Unused dependencies:
@@ -89,3 +89,5 @@ Unused dependencies:
     - moduleFilter (Function|undefined)
 
     - checkKeys (Array|String|undefined)
+
+    - onDone (Function|undefined)

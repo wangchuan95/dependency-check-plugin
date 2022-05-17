@@ -1,6 +1,6 @@
 {
   "name": "dependency-check-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Dependency Check Plugin",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wangchuan95/dependency-check-plugin/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "files": [
     "lib",

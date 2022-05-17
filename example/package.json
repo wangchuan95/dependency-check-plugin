@@ -16,7 +16,7 @@
     "moment": "^2.29.3"
   },
   "devDependencies": {
-    "dependency-check-plugin": "^0.0.1",
+    "dependency-check-plugin": "^0.0.2",
     "lodash-es": "^4.17.21",
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"
