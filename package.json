@@ -1,6 +1,6 @@
 {
   "name": "dependency-check-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Dependency Check Plugin",
   "main": "index.js",
   "repository": {
